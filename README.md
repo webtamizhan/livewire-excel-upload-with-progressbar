@@ -14,3 +14,8 @@ Steps to run project
 I used `QUEUE_CONNECTION` as database where we store and process the queues.
 
 To process queue, make sure you run `php artisan queue:work` for local testing.
+
+Login credentials used in seeder:
+
+Email : `test@example.com`
+Password: `123456`
